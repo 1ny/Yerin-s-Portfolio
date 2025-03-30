@@ -25,9 +25,8 @@
 | 언어 | C, C++, Verilog |
 | 하드웨어 | STM32, nRF52840, Nexys4 DDR FPGA |
 | 통신 | SPI, I2C, UART, CAN, BLE |
-| 툴 | Git, Visual Studio, MATLAB Simulink/Stateflow |
+| 툴 | Git, Visual Studio, MATLAB Simulink/Stateflow, Mobilgene |
 | 회로설계 | Cadence Virtuoso, KiCAD |
-| 시뮬레이션 | Vivado, ModelSim |
 
 ---
 
