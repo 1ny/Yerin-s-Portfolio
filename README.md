@@ -70,18 +70,16 @@
 ## 📚 활동 및 학습
 
 - 📖 디지털 시스템 설계 및 HDL 실습 (Vivado, FPGA)
-- 🧪 임베디드 실습 기반의 RTOS 프로젝트 진행
 - 💡 MATLAB Stateflow를 이용한 시스템 모델링 및 시뮬레이션 경험
 
 ---
 
 ## 📬 연락처
 
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- (LinkedIn, 블로그 등 추가 가능)
+- GitHub: [https://github.com/1ny](https://github.com/1ny)
+- Email: floeoi83@gmail.com
 
 ---
 
-> “**코드는 전기와 만날 때 비로소 진짜 살아난다.**”  
+> “**코드는 하드웨어와 만날 때 비로소 진짜 살아난다.**”  
 임베디드 시스템은 그 경계에 서 있는 가장 흥미로운 분야라고 생각합니다.
