@@ -14,7 +14,7 @@
 - MCU 통신 (I2C, SPI, UART, CAN)
 - 센서 및 디바이스 드라이버 개발
 - 디지털 로직 설계 (Verilog, FPGA)
-- 저전력 회로 설계 (Cadence Virtuoso 기반 IC 설계)
+- 아날로그 회로 설계 (Cadence Virtuoso 기반 IC 설계)
 
 ---
 
